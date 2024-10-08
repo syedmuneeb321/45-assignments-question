@@ -69,7 +69,8 @@ You can view the complete solution [here](https://github.com/syedmuneeb321/45-as
 
 
 ### 🔡 Name Cases
-This program displays a name in lowercase, uppercase, and titlecase.
+This program displays a name in lowercase, uppercase, and titlecase.You can view the complete solution [here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q3.ts).
+
 
 ### 📝 Famous Quote
 Prints a famous quote with the author's name, demonstrating the use of string formatting.
