@@ -4,7 +4,7 @@ Welcome to my repository! Here you will find solutions to a wide range of **Type
 
 ## 📋 Table of Contents
 
-- [🛠 Installation](#installation)
+- [🛠 Installation]([#installation](https://github.com/syedmuneeb321/45-assignments-question/blob/main/README.md#-installation))
 - [📚 Exercises Overview](#exercises-overview)
   - [👤 Personal Message](#personal-message)
   - [🔡 Name Cases](#name-cases)
