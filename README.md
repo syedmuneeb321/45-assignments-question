@@ -65,6 +65,8 @@ This simple exercise stores a person’s name in a variable and prints a greetin
 let name = "Eric";
 console.log(`Hello ${name}, would you like to learn some TypeScript today?`);
 ```
+You can view the complete solution [here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q2.ts).
+
 
 ### 🔡 Name Cases
 This program displays a name in lowercase, uppercase, and titlecase.
