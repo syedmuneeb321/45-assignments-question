@@ -6,7 +6,7 @@ Welcome to my repository! Here you will find solutions to a wide range of **Type
 
 - [🛠 Installation](https://github.com/syedmuneeb321/45-assignments-question/blob/main/README.md#-installation)
 - [📚 Exercises Overview](https://github.com/syedmuneeb321/45-assignments-question/blob/main/README.md#-exercises-overview)
-  - [👤 Personal Message](#personal-message)
+  - [👤 Personal Message](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q2.ts)
   - [🔡 Name Cases](#name-cases)
   - [📝 Famous Quote](#famous-quote)
   - [🧼 Stripping Names](#stripping-names)
