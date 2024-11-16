@@ -73,64 +73,65 @@ This program displays a name in lowercase, uppercase, and titlecase.You can view
 
 
 ### 📝 Famous Quote
-Prints a famous quote with the author's name, demonstrating the use of string formatting.
+Prints a famous quote with the author's name, demonstrating the use of string formatting.You can view the complete solution [here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q4.ts),[here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q5.ts).
 
 ### 🧼 Stripping Names
-Trims leading and trailing whitespace from a string.
+Trims leading and trailing whitespace from a string.You can view the complete solution [here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q4.ts),[here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q6.ts)
 
 ### ➕ Number Eight
-Performs arithmetic operations (addition, subtraction, multiplication, and division) to get the result `8`.
+Performs arithmetic operations (addition, subtraction, multiplication, and division) to get the result `8`.You can view the complete solution [here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q7.ts),[here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q8.ts)
 
 ### 💖 Favorite Number
-Stores and displays a favorite number with a personalized message.
+Stores and displays a favorite number with a personalized message.You can view the complete solution [here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q9.ts)
 
 ### 👥 Names Array
-Stores a list of names and prints each name from the array.
+Stores a list of names and prints each name from the array. You can view the complete solution [here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q11.ts)
 
 ### 💬 Greetings
-Personalized greetings for each name stored in an array.
+Personalized greetings for each name stored in an array.You can view the complete solution [here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q12.ts)
 
 ### 🍽️ Guest List
-Creates a list of guests and sends them dinner invitations.
+Creates a list of guests and sends them dinner invitations.You can view the complete solution [here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q14.ts),[here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q15.ts)
 
 ### 📈 More Guests
-Expands the guest list to invite more people and prints updated invitations.
+Expands the guest list to invite more people and prints updated invitations.You can view the complete solution [here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q16.ts)
 
 ### 📉 Shrinking Guest List
-Shrinks the guest list by removing guests one by one and sending them apology messages.
+Shrinks the guest list by removing guests one by one and sending them apology messages.You can view the complete solution [here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q17.ts)
 
 ### 🌍 Seeing the World
-Stores a list of favorite places and prints them in various orders (original, alphabetical, reverse).
+Stores a list of favorite places and prints them in various orders (original, alphabetical, reverse).You can view the complete solution [here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q18.ts)
+
 
 ### 👾 Alien Colors
-A conditional program that prints a message based on the alien’s color.
+A conditional program that prints a message based on the alien’s color.You can view the complete solution [here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q25.ts),[here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q26.ts),[here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q27.ts)
 
 ### 🔄 Stages of Life
-Uses `if-else` logic to determine a person’s stage of life based on their age.
+Uses `if-else` logic to determine a person’s stage of life based on their age.You can view the complete solution [here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q28.ts),
 
 ### 🍇 Favorite Fruit
-Checks if certain fruits are in an array and prints a personalized message for each.
+Checks if certain fruits are in an array and prints a personalized message for each.You can view the complete solution [here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q29.ts).
 
 ### 👨‍💻 Hello Admin
-Prints a greeting for users, with a special message for the admin.
+Prints a greeting for users, with a special message for the admin.You can view the complete solution [here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q30.ts),[here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q31.ts),
 
 ### 🔑 Checking Usernames
-Simulates checking if new usernames are available, comparing them to existing ones.
+Simulates checking if new usernames are available, comparing them to existing ones.You can view the complete solution [here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q32.ts),
 
 ### 👕 T-Shirt Function
-A function that accepts a shirt size and message, printing out the details of the shirt.
+A function that accepts a shirt size and message, printing out the details of the shirt.You can view the complete solution [here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q36.ts), [here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q37.ts)
 
 ### 🏙️ Cities Function
-A function that describes a city and its country, with a default country parameter.
+A function that describes a city and its country, with a default country parameter.You can view the complete solution [here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q38.ts),[here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q39.ts)
 
 ### 🧙‍♂️ Magicians
-A function that prints magician names from an array, and modifies the array to prepend "The Great" to each name.
+A function that prints magician names from an array, and modifies the array to prepend "The Great" to each name.You can view the complete solution [here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q41.ts),
 
 ### 🥪 Sandwiches
-A function that prints a summary of a sandwich order, with varying ingredients.
+A function that prints a summary of a sandwich order, with varying ingredients.You can view the complete solution [here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q44.ts),
 
 ### 🚗 Cars Object
-A function that stores information about a car in an object and accepts arbitrary keyword arguments.
+A function that stores information about a car in an object and accepts arbitrary keyword arguments.You can view the complete solution [here](https://github.com/syedmuneeb321/45-assignments-question/blob/main/q45.ts)
 
 ## 📝 License
 
